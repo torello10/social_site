@@ -1,0 +1,11 @@
+body{
+  font-family: 'Slabo 27px', serif;
+}
+a{
+  text-decoration: none !important;
+}
+
+a, a:hover{
+  color: #17a2b8;
+
+}
